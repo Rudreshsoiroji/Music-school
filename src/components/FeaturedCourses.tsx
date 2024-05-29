@@ -4,7 +4,6 @@ import { BackgroundGradient } from "./ui/background-gradient";
 import Image from "next/image";
 import Link from "next/link"
 import courseData from "../data/music_courses.json"
-import { Coiny } from "next/font/google";
 
 interface Course{
     id:number,

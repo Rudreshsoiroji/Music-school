@@ -2,7 +2,7 @@ import Link from "next/link"
 import React from "react";
 import { cn } from "@/utils/cn";
 import { Spotlight } from "./ui/Spotlight";
-import { Button } from "./ui/moving-border";
+import { Button } from "./ui/moving-borders";
 
 
 function HeroSection() {
